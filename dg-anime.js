@@ -1,7 +1,7 @@
 (function () {
 
   var ENTER_OFFSET = 120; // px sebelum masuk viewport
-  var EXIT_OFFSET  = 80;  // px setelah lewat atas
+  var EXIT_OFFSET  = 150;  // px setelah lewat atas
   var EXIT_DELAY   = 200; // ms overlap blur + fade
 
   function handleReveal() {
